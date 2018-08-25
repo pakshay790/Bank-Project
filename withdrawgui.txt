@@ -1,0 +1,11 @@
+when withraw ammount button click the search account no jFrame form called and then after clicking the search button the new Withdraw JFrame called it containing following:
+1. first the head most middle the logo of the bank 
+2.the first label containing account no and containing the text in front of it and it is not enabled(already got some no. ,No editable).
+3.then label containing the holder name and containing the text box as same above...
+4.then it shows the label account type containing and it Contain the account type in lable
+5.then one lbl tells the user to enter amount to be withdraw.
+6.checks the holder have the sufficient balance if it have then...
+7.then containing the button called WITHDRAW ,LOGOUT,HOME,
+8.after clicking button withdraw the authentication box will come and then shows an information box tells that congratulation that amount you are withdraw and current balance.
+9.and the another button clicking the 
+
